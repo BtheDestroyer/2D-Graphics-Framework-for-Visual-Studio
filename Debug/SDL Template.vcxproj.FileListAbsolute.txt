@@ -1,0 +1,2 @@
+C:\Users\Bryce Dixon\source\repos\SDL Template\Debug\SDL Template.exe
+C:\Users\Bryce Dixon\source\repos\SDL Template\Debug\SDL Template.pdb
